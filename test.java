@@ -10,7 +10,7 @@ public class test {
 		
 		System.out.println("This is sample test");
 		System.out.println("This is Swapna test");
-
+		System.out.println("This is Swapna test");
 		}
 
 }
